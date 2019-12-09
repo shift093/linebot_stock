@@ -19,4 +19,6 @@ https://developers.line.biz/console/channel/1653633237/messaging-api
 
 https://yaoandy107.github.io/line-bot-tutorial/
 
+https://medium.com/@skywalker0803r/line-bot%E5%8A%A9%E6%89%8B%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%AF%A6%E4%BD%9C-893e24db0ab5
+
 ![](./815geyre.png)
