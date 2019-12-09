@@ -31,7 +31,7 @@ app = Flask(__name__)
 
 
 channel_secret_8 = 'c32679ff02b2df82b9653bfca496d3be'
-channel_access_token_8 = 'Ucf5c708149a61d5491d003c00d4b4197'
+channel_access_token_8 = '1653633237'
 line_bot_api_8 = LineBotApi(channel_access_token_8)
 parser_8 = WebhookParser(channel_secret_8)
 
