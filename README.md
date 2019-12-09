@@ -16,4 +16,4 @@ https://developers.line.biz/zh-hant/
 
 https://developers.line.biz/console/channel/1653633237/messaging-api
 
-![QRcode](https://qr-official.line.me/sid/L/815geyre.png)
+![](https://qr-official.line.me/sid/L/815geyre.png)
