@@ -4,6 +4,7 @@
 
 ## 設定 token, secrete, webhook enable, webhook url, imagur account
 
+https://dashboard.heroku.com/apps/linebot-tw-stock/resources
 
 ### 要設定 token, secrete, webhook enable, webhook url,
 ![](https://i.imgur.com/FXr8DED.png)
